@@ -1,4 +1,4 @@
-# Multiple Depot Vehicle Routing Problem Instances: **MDVRP-Instances**
+# Multiple Depot Vehicle Routing Problem Instances
 
 ## Introduction
 
@@ -12,9 +12,7 @@ The description of files can be found in [NEO Research Group](http://neo.lcc.uma
 Solution files are inserted until now and the results can be found in the references.
 
 Best regards,
-
 Fernando B Oliveira.
-
 fboliveira25@gmail.com
 
 
