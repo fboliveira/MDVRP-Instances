@@ -1,11 +1,22 @@
-# MDVRP-Instances
+# Multiple Depot Vehicle Routing Problem Instances: **MDVRP-Instances**
 
-## Multiple Depot VRP Instances
+## Introduction
 
 The complete benchmarking set contains **33 instances**. Instances 1-7 have been created by [1], instances 8-11 have been
 described in [2], and instances 12-23 were proposed by [3]. Finally, instances 24-33 were proposed by [4]. You might also find some applications with those instances in [5]-[8].
 
-The description of files can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and [here](DESCRIPTION.md)
+
+The description of files can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and [here](DESCRIPTION.md).
+
+
+Solution files are inserted until now and the results can be found in the references.
+
+Best regards,
+
+Fernando B Oliveira.
+
+fboliveira25@gmail.com
+
 
 ## References
 

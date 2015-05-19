@@ -1,10 +1,13 @@
 # Description for files of Cordeau’s Instances
 
-This description can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and it is fully reported here.
+> Reference note: This description can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and it is fully reported below.
+> [Return](https://github.com/fboliveira/MDVRP-Instances)
 
-The format of data and solution files in all directories is as follows:
+## Description from NEO Research Group:
 
-## Data files
+The format of **data** and **solution** files in all directories is as follows:
+
+### Data files
 
 The first line contains the following information:
 
@@ -58,7 +61,7 @@ Each visit combination is coded with the decimal equivalent of the corresponding
 
 *Note : In the case of the MDVRP, the lines go from 1 to n + t and the last t entries correspond to the t depots. In the case of the VRP, PVRP and MDVRP, the lines go from 0 to n and the first entry corresponds to the unique depot.*
 
-## Solution files
+### Solution files
 
 The first line contains the cost of the solution (total duration excluding service time).
 
