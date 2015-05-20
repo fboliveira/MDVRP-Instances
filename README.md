@@ -2,19 +2,15 @@
 
 ## Introduction
 
-The complete benchmarking set contains **33 instances**. Instances 1-7 have been created by [1], instances 8-11 have been
-described in [2], and instances 12-23 were proposed by [3]. Finally, instances 24-33 were proposed by [4]. You might also find some applications with those instances in [5]-[8].
+The Multi-Depot Vehicle Routing Problem (MDVRP) is a variant of the classical VRP where more than one depot is considered. The complete benchmarking set contains **33 instances**. Instances 1-7 have been created by [1], instances 8-11 have been described in [2], and instances 12-23 were proposed by [3]. Finally, instances 24-33 were proposed by [4]. You might also find some applications with those instances in [5]-[8].
 
-
-The description of files can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and [here](DESCRIPTION.md).
-
+The **description** of files can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and [here](DESCRIPTION.md).
 
 Solution files are inserted until now and the results can be found in the references.
 
-Best regards,
-Fernando B Oliveira.
+Best regards,<br />
+Fernando B Oliveira.<br /> 
 fboliveira25@gmail.com
-
 
 ## References
 
@@ -34,3 +30,5 @@ multi-depot vehicle routing problems. Networks 30(2), 105–119 (1997).
 [7] Vidal, T., Crainic, T., Gendreau, M., Lahrichi, N., Rei, W.: A hybrid genetic algorithm for multi-depot and periodic vehicle routing problems. Oper. Res. 60(3), 611–624 (2012).
 
 [8] Escobar, J. W., Linfati, R., Toth, P., & Baldoquin, M. G. (2014). A hybrid granular tabu search algorithm for the multi-depot vehicle routing problem. Journal of Heuristics, 20(5), 483-509.
+
+------
