@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The Multi-Depot Vehicle Routing Problem (MDVRP) is a variant of the classical VRP where more than one depot is considered. The complete benchmarking set contains **33 instances**. Instances 1-7 have been created by [1], instances 8-11 have been described in [2], and instances 12-23 were proposed by [3]. Finally, instances 24-33 were proposed by [4]. You might also find some applications with those instances in [5]-[8].
+The Multi-Depot Vehicle Routing Problem (MDVRP) is a variant of the classical VRP where more than one depot is considered. These instances are used in the literature to assess the performance of proposed algorithms and methodologies to solve the problem.
+
+The complete benchmarking set contains **33 instances** [dat files](/dat/). Instances 1-7 have been created by [1], instances 8-11 have been described in [2], and instances 12-23 were proposed by [3]. Finally, instances 24-33 were proposed by [4]. You might also find some applications with those instances in [5]-[8].
 
 The **description** of files can be found in [NEO Research Group](http://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/) and [here](DESCRIPTION.md).
 
@@ -11,6 +13,8 @@ Solution files are inserted until now and the results can be found in the refere
 Best regards,<br />
 Fernando B Oliveira.<br /> 
 fboliveira25@gmail.com
+
+-----
 
 ## References
 
